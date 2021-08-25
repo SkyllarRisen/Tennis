@@ -35,7 +35,7 @@ public:
 public:
 
     bool hasCollidedX, hasCollidedY;
-
+    //test
 private:
 
     void BorderClamping();
